@@ -1,7 +1,7 @@
-# Template for a repo for a specific research problem
+# Template for a repository for a specific research problem
 ---
 
-The goal of this template is to provide a standard structure through all the research projects in the DRiP project.
+This template aims to provide a standard structure through all the research projects in the DRiP project.
 
 ## Pre-requisites 
 
