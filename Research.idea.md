@@ -6,7 +6,9 @@ status: 🟥️
 last-reviewed:
 creation-date: 
 ---
-.pdf
+
+== Correspond to helper to complete each section
+
 # Title: 
 
 ==Steps to determine if an idea can lead to a research project==
@@ -34,7 +36,7 @@ creation-date:
 ==_CheckList example: == 
 =A framework for testing, including categorization of different test types  
 -A way to elicit tests from users  
--Software that makes the whole process easy=
+-Software that makes the whole process easy==
 
 
 ## How do I know if I solved it? 
@@ -45,7 +47,7 @@ creation-date:
 
 ## What are uncertainties? What has to be true for this to work? What can’t be true for this solution to work?
 
-==This is about mapping out areas of high uncertainty and making sure we try to rule out things that would invalidate either the project or the sketch of a solution as quickly as possible.==
+==This is about mapping out areas of high uncertainty and ensuring we try to rule out things that would invalidate the project or the sketch of a solution as quickly as possible.==
 
 ## Sketch of a plan
 
